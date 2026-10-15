@@ -55,7 +55,8 @@
 
 <div align=center>
   <h2>Work now</h2>
-  <a href="https://caredit.net">CaREDIT</a> SW Team.  SW Enginneer 23.02 ~
+  <a href="https://caredit.net">론픽</a> 개발2실 | Frontend Enginneer 25.10 ~
+  <a href="https://caredit.net">CaREDIT</a> SW Team. | SW Enginneer 23.02 ~ 25.10
 </div>
 
 <div align=center>
