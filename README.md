@@ -1,83 +1,36 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Eunhye%20Jeon&fontSize=90"/>
-</div>
+# 안녕하세요, 전은혜입니다.
 
-<div align=center>
-  <h2>🦊Tech Stack🦊</h2>
-  <div>JS 기반의 웹 업무를 하고 있습니다.</div>
-	<br/>
-  <div>
-  <!--language, framework-->
-  	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
-  	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
-	<br/>
-  <div>
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=%black" />
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  </div>
-  <div>
-  <!--fe library-->
-    <img src="https://img.shields.io/badge/reduxToolKit-764ABC?style=for-the-badge&logo=redux&logoColor=%764ABC" />
-    <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=recoli&logoColor=black" />
-    <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white" />
-  </div>
-  <div>
-  <!--css-->
-  	<img src="https://img.shields.io/badge/styledComponent-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  	<img src="https://img.shields.io/badge/Tailwind_Css-06B6D4?style=for-the-badge&logo=Tailwind_CSS&logoColor=white" />
-  </div>
-  <div>
-  <!--cowork-->  
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white" />
-  </div>
-	<br/>
-  <div>
-  <!--app library-->
-  </div>
-	<br/>
-  <div>
-  <!--be library-->
-     <img src="https://img.shields.io/badge/rdbms-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-  </div>
-	<br/>
-</div>
+**웹으로 시작해, 지금은 운동기구를 움직이는 Android 앱을 만들고 있습니다.**
 
-<div align=center>
-  <h2>Today</h2>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.io%2Fhaileyport&count_bg=%2395D1FF&title_bg=%23242165&icon=&icon_color=%239AFFDB&title=hits&edge_flat=false"/></a>
-</div>
+화면에 보이는 인터랙션부터 기기와 주고받는 데이터까지, 내가 만든 코드가 실제로 동작하는 순간을 좋아합니다.
 
-<div align=center>
-  <h2>Work now</h2>
-  <a href="https://caredit.net">론픽</a> 개발2실 | Frontend Enginneer 25.10 ~
-  <a href="https://caredit.net">CaREDIT</a> SW Team. | SW Enginneer 23.02 ~ 25.10
-</div>
+주로 React·TypeScript와 Kotlin을 사용하며, Flutter 앱 개발과 Unity 콘텐츠의 Android 앱 연동 경험도 있습니다.
 
-<div align=center>
-	<br>
-	<h2>Record</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyport&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=haileyport&show_icons=true">
-<img src="https://github-profile-trophy.vercel.app/?username=haileyport&column=4&theme=dark_lover">
-</div>
+## 근황
 
-<!--
-**haileyport/haileyport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+론픽에서 스마트 운동기구와 통신하는 Android 애플리케이션을 개발하고 있습니다.
 
-Here are some ideas to get you started:
+- 기존 앱의 시리얼 통신 계층을 다시 만들며 데이터 파싱, 상태 관리, 오류 복구 흐름을 정리했습니다.
+- 신규 머신 앱에 Jetpack Compose와 MVI를 적용하고, 제품 간 함께 사용하는 모듈을 만들었습니다.
+- 실제 기기가 없어도 개발할 수 있도록 Fake Firmware를 활용한 개발 환경을 구성했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 업무 방식
+
+“일단 된다”에서 한 걸음 더 들어가, 왜 되는지 설명할 수 있는 코드를 만들고 싶습니다.
+
+반복되는 문제가 보이면 개별 수정으로 끝내기보다, 문제가 생기는 구조를 살펴봅니다. 새로운 기술을 도입할 때도 지금 해결하려는 문제에 필요한지 먼저 생각합니다.
+
+복잡한 내용을 풀어서 설명하고, 함께 일하는 사람과 방향을 맞추는 일도 좋아합니다.
+
+## 주로 사용하는 기술
+
+- **Android** · Kotlin, Jetpack Compose, Coroutines, Flow, Hilt
+- **Web** · TypeScript, React, Next.js
+- **그 밖의 제작 경험** · Flutter, Unity, C#
+
+## 경력
+
+- **론픽** · Frontend Engineer · 2025.10 – 현재  
+  스마트 운동기구와 연동하는 Android 앱 및 웹 개발
+- **CaREDIT** · SW Engineer · 2023.02 – 2025.10  
+  React 기반 웹 서비스 및 Flutter 앱 개발
